@@ -1,8 +1,11 @@
-<div align="center">
+<!-- <div align="center">
 
 **「人」と「人」とをつなぎ、印刷だけではなく、新しいコトを創りだす。**
 
-</div>
+</div> -->
+
+<img width="1091" height="409" alt="image" src="https://github.com/user-attachments/assets/10cfc249-ff0b-4079-aded-acabb35ad09a" />
+
 
 ---
 

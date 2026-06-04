@@ -4,12 +4,14 @@
 
 </div> -->
 
-<img width="1091" height="409" alt="image" src="https://github.com/user-attachments/assets/10cfc249-ff0b-4079-aded-acabb35ad09a" />
 
 
 ---
 
 ## This is us ── 私たちについて
+
+<img width="1091" height="409" alt="image" src="https://github.com/user-attachments/assets/10cfc249-ff0b-4079-aded-acabb35ad09a" />
+
 
 京都・西陣の地で、私たちは **1946年（昭和21年）** から印刷とともに歩んできました。
 
